@@ -6,6 +6,9 @@ Predict whether a person is an **Introvert** or an **Extrovert** based on social
 
 This dataset is part of the [Kaggle Playground Series 2025 competition](https://www.kaggle.com/competitions/playground-series-s5e7/data).
 
+**Try the Streamlit App here:** [Introvert vs Extrovert Predictor](https://personality-test-extrovert-vs-introvert.streamlit.app/)
+
+
 Features:
 
 - **Time_spent_Alone** → Hours spent alone.
